@@ -9,6 +9,11 @@ body {
   background-color: white;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 /*            *\
    Header Style
 \*            */
